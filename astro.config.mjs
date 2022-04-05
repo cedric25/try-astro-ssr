@@ -5,7 +5,7 @@ import vue from '@astrojs/vue';
 // https://astro.build/config
 export default defineConfig({
   base: '/',
-  site: 'https://www.my-site.dev',
+  site: 'https://wondrous-cuchufli-072691.netlify.app',
   outDir: './netlify',
   adapter: netlify(),
   integrations: [vue()]
